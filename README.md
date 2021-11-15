@@ -14,7 +14,7 @@ Formerly
 [@Wikibuy](https://capitaloneshopping.com/) (now Capital One Shopping), 
 and [@IBMWatson](https://www.ibm.com/watson)
 
-💼 I own and operate [Clever Pebble](https://github.com/cleverpebble) - a small shop for my side projects.
+💼 I own and operate [Clever Pebble](https://github.com/cleverpebble) - a small shop for my side projects. Most of my commit history on github has to do with side projects under the Clever Pebble umbrella.
 
 🌈 I'm very active in the local gay community in Austin. You can find me playing [Dodgeball and Volleyball](https://www.varsitygayleague.com/austin) in my free time. 
 
