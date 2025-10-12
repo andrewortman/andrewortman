@@ -1,7 +1,7 @@
 👋 Hi! I’m Andrew - but you can call me Andy!
 
 💻 I'm a Experienced Data Scientist and Software Engineer in Austin, TX with passions in Deep Learning, Machine Learning, Infrastructure, and Backend Architecture.
-I'm a full stack developer, and have experience writing
+I'm a full stack developer, and have professional experience writing
 [Python](https://github.com/python/cpython),
 [Go](https://github.com/golang/go), 
 [Javascript (Node.js)](https://github.com/nodejs),
