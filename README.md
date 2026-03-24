@@ -14,6 +14,4 @@ Formerly
 [@Wikibuy](https://capitaloneshopping.com/) (now Capital One Shopping), 
 and [@IBMWatson](https://www.ibm.com/watson)
 
-💼 I own and operate [Clever Pebble](https://github.com/cleverpebble) - a small shop for my side projects. 
-
 📪 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/andrewortman/)
